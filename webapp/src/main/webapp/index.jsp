@@ -8,7 +8,7 @@
     <th>Country</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
+    <td>Payments section</td>
     <td>Maria Anders</td>
     <td>India</td>
   </tr>
