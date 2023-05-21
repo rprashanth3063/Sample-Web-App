@@ -6,11 +6,21 @@
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
+    <th>location</th>
+    <th>address</th>
+    <th>name</th>
+    <th>user</th>
+    <th>phonenumber</th>
+    <th>looks</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
     <td>Maria Anders</td>
-    <td>India</td>
+    <td>bhavya</td>
+    <td>mhendra</td>
+    <td>prachi</td>
+    <td>Naga</td>
+    <td>name</td>
   </tr>
   <tr>
     <td>Centro comercial Moctezuma</td>
