@@ -6,6 +6,10 @@
     <th>Company</th>
     <th>Contact</th>
     <th>Country</th>
+    <th>abc</th>
+    <th>dummy</th>
+    <th>shopping</th>
+    <th>country</th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
