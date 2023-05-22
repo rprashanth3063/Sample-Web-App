@@ -29,5 +29,4 @@
   </tr>
 </table>
 
-<p><a href="https://www.Youtube.com/"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760872.png" style="width:50px;height:50px;"></a></p>
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+
